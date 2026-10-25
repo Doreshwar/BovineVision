@@ -1,0 +1,47 @@
+{
+  "id": "ongole",
+  "breed_name": "Ongole",
+  "scientific_classification": {
+    "species": "Bos indicus (Zebu cattle)",
+    "nbagr_accession": "INDIA_CATTLE_0100_ONGOLE_03017",
+    "category": "World-Renowned Dual-Purpose Breed"
+  },
+  "origin_and_geography": {
+    "native_tract": "Ongole, Kandukur, Addanki, and Guntur taluks in Prakasam, Guntur, and Nellore districts of Andhra Pradesh, India.",
+    "agro_climatic_zone": "Coastal semi-arid tropical plains along the Bay of Bengal.",
+    "historical_background": "Globally celebrated indigenous breed. Exported across the world to Brazil (forming the foundation of Nelore beef cattle comprising over 100 million heads), the USA, Mexico, and Australia due to its supreme muscularity and tropical adaptability."
+  },
+  "morphological_traits": {
+    "horns": "Short, stumpy, growing laterally and backward, blunt at the tips.",
+    "forehead": "Broad, flat between the eyes with prominent orbital arches and dark pigmented eye rims ('mascara eyes').",
+    "coat_color": "Glossy white in cows; mature bulls are light grey with dark slate-grey shading on the neck, shoulders, and hump.",
+    "ears": "Moderately long, drooping horizontally.",
+    "hump_and_dewlap": "Massive, firm hump in bulls; large, thin, pleated dewlap extending deep into the brisket.",
+    "body_conformation": "Large, muscular, cylindrical frame; majestic stance, deep girth, strong straight limbs, and hard black hooves."
+  },
+  "production_and_utility": {
+    "primary_utility": "Heavy draught, robust dairy yield, and globally esteemed tropical beef genetics.",
+    "average_lactation_yield_kg": "1,000 - 1,600 kg (elite selections produce 2,200 kg)",
+    "lactation_length_days": "240 - 280 days",
+    "fat_percentage": "4.2% - 4.6%",
+    "draught_capacity": "Immense hauling capacity; capable of pulling heavy loads in wet coastal clay soils and marshy paddy fields."
+  },
+  "management_and_resilience": {
+    "diet_and_forage": "Thrives on paddy straw, sugarcane tops, and coastal pasture grasses.",
+    "disease_resistance": "World-class resistance to eye cancer, tick infestation, foot-and-mouth disease, and tropical heat radiation.",
+    "temperament": "Noble, calm, gentle, dignified."
+  },
+  "conservation_status": "Conserved nationally under the National Kamdhenu Breeding Centre and Andhra Pradesh Livestock Development Agency.",
+  "citations": [
+    {
+      "source": "ICAR - National Bureau of Animal Genetic Resources (NBAGR)",
+      "document": "Ongole Cattle Breed Descriptor: Accession No. INDIA_CATTLE_0100_ONGOLE_03017",
+      "authority": "Indian Council of Agricultural Research"
+    },
+    {
+      "source": "Sri Venkateswara Veterinary University (SVVU)",
+      "document": "The Ongole Cattle: History, Breeding, and Global Impact",
+      "authority": "Livestock Research Station, Lam, Guntur"
+    }
+  ]
+}

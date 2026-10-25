@@ -1,0 +1,47 @@
+{
+  "id": "tharparkar",
+  "breed_name": "Tharparkar",
+  "scientific_classification": {
+    "species": "Bos indicus (Zebu cattle)",
+    "nbagr_accession": "INDIA_CATTLE_1700_THARPARKAR_03023",
+    "category": "Dual-Purpose (Desert Dairy and Draught) Breed"
+  },
+  "origin_and_geography": {
+    "native_tract": "Thar desert of Western Rajasthan (Barmer, Jodhpur, and Jaisalmer districts), India, and contiguous Thar desert regions.",
+    "agro_climatic_zone": "Arid desert and dry tropical scrubland.",
+    "historical_background": "Name translates to 'that which crosses the Thar desert'. Developed by indigenous pastoralists to provide nutritious milk and vigorous draught under hyper-arid conditions where feed and water are scarce."
+  },
+  "morphological_traits": {
+    "horns": "Medium length, lyre-shaped, curving outward, upward, and slightly forward with pointed tips.",
+    "forehead": "Broad, convex, slightly dished between eyes with prominent poll.",
+    "coat_color": "Striking white or light grey in summer; darkens to steel grey along the spine, neck, and hump in winter and during pregnancy.",
+    "ears": "Long, broad, semi-pendulous, held alert.",
+    "hump_and_dewlap": "Moderately developed, firm hump; light to medium dewlap.",
+    "body_conformation": "Medium-sized, tight-skinned, muscular body; deep chest, clean strong legs, and resilient black hooves."
+  },
+  "production_and_utility": {
+    "primary_utility": "Dual-purpose (valuable desert milk producer and active draught animal).",
+    "average_lactation_yield_kg": "1,800 - 2,800 kg (elite cows yield over 3,500 kg)",
+    "lactation_length_days": "280 - 315 days",
+    "fat_percentage": "4.5% - 4.9%",
+    "draught_capacity": "High endurance; capable of pulling ploughs in burning hot sand without fatigue."
+  },
+  "management_and_resilience": {
+    "diet_and_forage": "Survives on poor-quality desert scrub, dry shrubs (Zizyphus, Acacia), and coarse desert hay.",
+    "disease_resistance": "Virtually immune to heat stroke; highly resistant to tropical diseases and prolonged water deprivation.",
+    "temperament": "Gentle, active, intelligent, highly responsive."
+  },
+  "conservation_status": "Maintained at Central Cattle Breeding Farm (Suratgarh) and ICAR institutes; actively conserved under National Gokul Mission.",
+  "citations": [
+    {
+      "source": "ICAR - National Bureau of Animal Genetic Resources (NBAGR)",
+      "document": "Tharparkar Cattle Breed Profile: Accession No. INDIA_CATTLE_1700_THARPARKAR_03023",
+      "authority": "Indian Council of Agricultural Research"
+    },
+    {
+      "source": "Central Arid Zone Research Institute (CAZRI), Jodhpur",
+      "document": "Livestock Production Systems in Arid Zone of Rajasthan",
+      "authority": "Division of Animal Sciences"
+    }
+  ]
+}

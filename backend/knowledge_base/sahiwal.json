@@ -1,0 +1,47 @@
+{
+  "id": "sahiwal",
+  "breed_name": "Sahiwal",
+  "scientific_classification": {
+    "species": "Bos indicus (Zebu cattle)",
+    "nbagr_accession": "INDIA_CATTLE_1600_SAHIWAL_03022",
+    "category": "Premier Dairy (Milch) Breed"
+  },
+  "origin_and_geography": {
+    "native_tract": "Originally from Montgomery district (now Sahiwal), widely conserved and bred across Punjab, Haryana, Northern Rajasthan, and Western Uttar Pradesh, India.",
+    "agro_climatic_zone": "Indo-Gangetic alluvial plains and northern semi-arid sub-tropical zone.",
+    "historical_background": "Regarded as the premier milk-producing zebu breed of the subcontinent. Evolved under pastoral nomadic grazing along the Ravi River. Extensively used worldwide to develop tropical synthetic dairy breeds (e.g. Jamaica Hope, Australian Milking Zebu)."
+  },
+  "morphological_traits": {
+    "horns": "Short, thick, stubby, growing outward and curving slightly upward.",
+    "forehead": "Medium width, flat, masculine in bulls and refined in cows.",
+    "coat_color": "Reddish dun, brownish red, or pale red; occasionally with white symmetrical markings.",
+    "ears": "Medium size, black-fringed, held horizontally with moderate drop.",
+    "hump_and_dewlap": "Massive, fleshy hump in bulls; exceptionally voluminous, loose, pendulous dewlap ('lola') with deep folds.",
+    "body_conformation": "Heavy, cylindrical, capacious dairy body; loose skin, well-developed udder with cylindrical teats, long thin tail reaching almost to the ground."
+  },
+  "production_and_utility": {
+    "primary_utility": "High-volume dairy production rich in A2 beta-casein.",
+    "average_lactation_yield_kg": "2,200 - 3,800 kg (elite institutional herds exceed 4,800 kg)",
+    "lactation_length_days": "290 - 330 days",
+    "fat_percentage": "4.5% - 5.3%",
+    "draught_capacity": "Low to moderate; bullocks are slow and lethargic, used mainly for slow carting."
+  },
+  "management_and_resilience": {
+    "diet_and_forage": "High feed conversion efficiency on berseem, maize, mustard cake, and wheat straw.",
+    "disease_resistance": "Outstanding resistance to tick-borne diseases (theileriosis), mastitis, and heat stress.",
+    "temperament": "Very calm, docile, placid."
+  },
+  "conservation_status": "Priority breed of the National Dairy Research Institute (NDRI) and Central Herd Registration Scheme (CHRS).",
+  "citations": [
+    {
+      "source": "ICAR - National Bureau of Animal Genetic Resources (NBAGR)",
+      "document": "Sahiwal Cattle: Accession No. INDIA_CATTLE_1600_SAHIWAL_03022",
+      "authority": "Indian Council of Agricultural Research"
+    },
+    {
+      "source": "ICAR - National Dairy Research Institute (NDRI), Karnal",
+      "document": "Centenary Monograph on Sahiwal: The Pride Dairy Cattle of India",
+      "authority": "Dairy Cattle Breeding Division"
+    }
+  ]
+}

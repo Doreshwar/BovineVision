@@ -1,0 +1,47 @@
+{
+  "id": "kankrej",
+  "breed_name": "Kankrej",
+  "scientific_classification": {
+    "species": "Bos indicus (Zebu cattle)",
+    "nbagr_accession": "INDIA_CATTLE_0400_KANKREJ_03010",
+    "category": "Heavy Dual-Purpose Breed"
+  },
+  "origin_and_geography": {
+    "native_tract": "Kankrej taluk of Banaskantha, Mehsana, Ahmedabad, Sabarkantha, and Kutch districts in North Gujarat, extending into Barmer and Jodhpur districts of Rajasthan.",
+    "agro_climatic_zone": "Arid to semi-arid desert border and Rann of Kutch plains.",
+    "historical_background": "Known in ancient literature as the bull depicted on Indus Valley Mohenjo-Daro seals. One of the heaviest and most powerful indigenous cattle breeds of India."
+  },
+  "morphological_traits": {
+    "horns": "Majestic, thick, lyre-shaped horns curving outward, upward, and slightly inward, covered with a distinct skin sheath at base.",
+    "forehead": "Broad, dished (concave) between the eyes with a strong poll crest.",
+    "coat_color": "Silver-grey to iron-grey; adult bulls have dark grey or black shading on shoulders, hump, and hindquarters.",
+    "ears": "Very large, open, pendulous, drooping like broad petals.",
+    "hump_and_dewlap": "Enormous upright muscular hump; voluminous pendulous dewlap running from chin to brisket.",
+    "body_conformation": "Massive skeletal structure, wide chest, strong heavy bones, dignified rhythmic walk known as 'Sawai Chal'."
+  },
+  "production_and_utility": {
+    "primary_utility": "Dual-purpose (powerful agricultural draught and dependable dairy performance).",
+    "average_lactation_yield_kg": "1,400 - 2,200 kg (specialized dairy herds achieve 3,000+ kg)",
+    "lactation_length_days": "260 - 300 days",
+    "fat_percentage": "4.6% - 5.0%",
+    "draught_capacity": "Heavy load carrying and deep plowing in sandy soils; famous for 'Sawai Chal' (stride of one-and-a-quarter)."
+  },
+  "management_and_resilience": {
+    "diet_and_forage": "Exceptional dry matter digestion on bajra (pearl millet) straw, guar, and saline pasture grasses.",
+    "disease_resistance": "Remarkable resistance to tick-borne diseases, contagious bovine pleuropneumonia, and thermal stress.",
+    "temperament": "Stately, confident, powerful yet docile when handled consistently."
+  },
+  "conservation_status": "Secure and actively bred across Gujarat and Rajasthan; key contributor to global Guzerá and Brahman cattle.",
+  "citations": [
+    {
+      "source": "ICAR - National Bureau of Animal Genetic Resources (NBAGR)",
+      "document": "Kankrej Cattle - Accession No. INDIA_CATTLE_0400_KANKREJ_03010",
+      "authority": "Indian Council of Agricultural Research"
+    },
+    {
+      "source": "Anand Agricultural University (AAU)",
+      "document": "Genetic Evaluation and Production Potential of Kankrej Cattle",
+      "authority": "College of Veterinary Science and Animal Husbandry"
+    }
+  ]
+}

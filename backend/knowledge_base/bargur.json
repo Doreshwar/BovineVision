@@ -1,0 +1,47 @@
+{
+  "id": "bargur",
+  "breed_name": "Bargur",
+  "scientific_classification": {
+    "species": "Bos indicus (Zebu cattle)",
+    "nbagr_accession": "INDIA_CATTLE_1800_BARGUR_03003",
+    "category": "Draught / Hill Trotting Breed"
+  },
+  "origin_and_geography": {
+    "native_tract": "Bargur hill forest ranges in Anthiyur and Bhavani taluks of Erode district, Tamil Nadu, India",
+    "agro_climatic_zone": "Western semi-arid hilly forest zone, elevation 800m - 1200m",
+    "historical_background": "Bred and maintained primarily by the indigenous Lingayat / Kannada-speaking farming communities of Bargur hills for centuries. Known for their semi-wild husbandry system where herds graze extensively in deep reserve forests."
+  },
+  "morphological_traits": {
+    "horns": "Light brown to reddish-brown, medium length, inclined backward, outward, and slightly upward with inward sharp curvature at tips.",
+    "forehead": "Prominent, slightly convex with a distinct light brown or reddish central stripe.",
+    "coat_color": "Brown with distinct white patches or white with reddish-brown patches; occasionally entirely brown.",
+    "ears": "Short, erect, alert, horizontal orientation.",
+    "hump_and_dewlap": "Moderate compact hump in males; thin, moderate dewlap that does not hinder rapid mountain running.",
+    "body_conformation": "Compact, cylindrical body with strong, lean limbs and extremely hard hooves adapted to rocky terrains."
+  },
+  "production_and_utility": {
+    "primary_utility": "High-speed draught power and agile hill transport.",
+    "average_lactation_yield_kg": "250 - 350 kg",
+    "lactation_length_days": "200 - 240 days",
+    "fat_percentage": "4.3% - 5.0%",
+    "draught_capacity": "Unmatched agility, endurance, and speed in hilly and undulating terrains where heavy bullocks cannot operate."
+  },
+  "management_and_resilience": {
+    "diet_and_forage": "Naturally sustained on forest undergrowth, indigenous grasses, bamboo leaves, and coarse tree foliage.",
+    "disease_resistance": "Extremely resistant to tick infestations, foot rot, and babesiosis; highly adapted to thrive with minimal veterinary intervention.",
+    "temperament": "Restless, fiery, semi-wild; loyal to their customary handlers but defensive toward strangers."
+  },
+  "conservation_status": "Vulnerable / Endangered indigenous breed; conservation programs supported by ICAR-NBAGR and TANUVAS.",
+  "citations": [
+    {
+      "source": "ICAR - National Bureau of Animal Genetic Resources (NBAGR)",
+      "document": "Registered Indigenous Cattle Breeds of India - Accession No. INDIA_CATTLE_1800_BARGUR_03003",
+      "authority": "Indian Council of Agricultural Research, Govt of India"
+    },
+    {
+      "source": "TANUVAS (Tamil Nadu Veterinary and Animal Sciences University)",
+      "document": "Breed Monograph: Bargur Cattle of Erode District",
+      "authority": "State Veterinary Research Institute"
+    }
+  ]
+}

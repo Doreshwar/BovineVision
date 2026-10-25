@@ -1,0 +1,52 @@
+{
+  "id": "gir",
+  "breed_name": "Gir",
+  "scientific_classification": {
+    "species": "Bos indicus (Zebu cattle)",
+    "nbagr_accession": "INDIA_CATTLE_0400_GIR_03008",
+    "category": "Premier Dairy (Milch) Breed"
+  },
+  "origin_and_geography": {
+    "native_tract": "Gir hills and forest sanctuary covering Junagadh, Bhavnagar, Rajkot, and Amreli districts of the Saurashtra peninsula, Gujarat, India.",
+    "agro_climatic_zone": "Tropical dry deciduous forest and semi-arid plains of Western India.",
+    "historical_background": "Traditional nomadic pastoralists known as Maldharis selectively bred the Gir for centuries for high milk yield and gentle disposition. It is internationally renowned and was exported to Brazil (Gyr breed), where it formed the cornerstone of tropical dairy cattle."
+  },
+  "morphological_traits": {
+    "horns": "Uniquely curved backward and downward, then looping forward and outward in a half-moon curl, thick at the base.",
+    "forehead": "Excessively broad and convex, bulging out like an armored bony dome to shield the eyes.",
+    "coat_color": "Typically mottled reddish-brown with white spots, varying from deep red to speckled fawn and white.",
+    "ears": "Remarkably long, pendulous, and folded like a curled leaf with a distinct inward notch at the tip (hanging past the jawline).",
+    "hump_and_dewlap": "Massive, prominent hump; large, pendulous, fan-shaped dewlap with extensive surface area for thermoregulation.",
+    "body_conformation": "Heavy, symmetrical dairy frame with loose, pliable skin and a long, whip-like tail."
+  },
+  "production_and_utility": {
+    "primary_utility": "High milk production rich in A2 beta-casein protein.",
+    "average_lactation_yield_kg": "2,100 - 3,500 kg (elite farm recorded yields exceed 4,500 kg)",
+    "lactation_length_days": "280 - 325 days",
+    "fat_percentage": "4.5% - 5.2%",
+    "draught_capacity": "Moderate; bullocks are heavy and slow but possess steady pulling endurance."
+  },
+  "management_and_resilience": {
+    "diet_and_forage": "High feed conversion efficiency on natural pastures, dry sorghum stover, groundnut cake, and green fodder.",
+    "disease_resistance": "Immune to high heat loads (due to abundant sweat glands and skin vascularity); high resistance to mastitis and tick fevers.",
+    "temperament": "Docile, affectionate, highly social, and cooperative during hand or machine milking."
+  },
+  "conservation_status": "Widely conserved; focal breed of Rashtriya Gokul Mission (RGM) and National Dairy Development Board (NDDB).",
+  "citations": [
+    {
+      "source": "ICAR - National Bureau of Animal Genetic Resources (NBAGR)",
+      "document": "Indigenous Cattle Breeds of India - Gir (Accession No. INDIA_CATTLE_0400_GIR_03008)",
+      "authority": "Indian Council of Agricultural Research, Govt of India"
+    },
+    {
+      "source": "Junagadh Agricultural University (JAU)",
+      "document": "Performance Characteristics and Genetic Parameters of Gir Cattle",
+      "authority": "Department of Animal Genetics and Breeding"
+    },
+    {
+      "source": "Food and Agriculture Organization (FAO)",
+      "document": "DAD-IS Global Breed Database: Gir Cattle",
+      "authority": "United Nations Animal Production Division"
+    }
+  ]
+}

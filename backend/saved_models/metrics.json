@@ -1,0 +1,187 @@
+{
+  "dataset_source": "https://data.mendeley.com/datasets/xc3j9v382w/1",
+  "dataset_title": "Annotated Multiview Image Dataset of Prominent Indigenous Indian Cattle Breeds",
+  "dataset_doi": "10.17632/xc3j9v382w.1",
+  "total_authentic_images": 3213,
+  "split_counts": {
+    "train": 2249,
+    "val": 481,
+    "test": 483
+  },
+  "model_architecture": {
+    "name": "BovineVisionCNN",
+    "type": "Original Custom Deep Residual CNN with SE-Attention",
+    "total_parameters": 2896245,
+    "trainable_parameters": 2896245,
+    "input_resolution": "224x224x3",
+    "num_classes": 5,
+    "stages": [
+      {
+        "stage": 1,
+        "channels": 32,
+        "blocks": 2,
+        "attention": "Squeeze-and-Excitation (SE)"
+      },
+      {
+        "stage": 2,
+        "channels": 64,
+        "blocks": 2,
+        "attention": "Squeeze-and-Excitation (SE)"
+      },
+      {
+        "stage": 3,
+        "channels": 128,
+        "blocks": 2,
+        "attention": "Squeeze-and-Excitation (SE)"
+      },
+      {
+        "stage": 4,
+        "channels": 256,
+        "blocks": 2,
+        "attention": "Squeeze-and-Excitation (SE)"
+      }
+    ],
+    "stem": "Conv3x3 (stride 2) -> BN -> GELU -> Conv3x3 -> MaxPool (Channels: 32)",
+    "classification_head": "AdaptiveAvgPool2d -> Linear(256->256) -> BN -> GELU -> Linear(256->5)",
+    "pretrained": false,
+    "weights_origin": "Trained entirely from scratch on Mendeley Dataset xc3j9v382w"
+  },
+  "device": "cuda",
+  "device_name": "NVIDIA GeForce GTX 1650 Ti",
+  "epochs": 6,
+  "best_epoch": 5,
+  "best_val_accuracy": 99.38,
+  "final_test_accuracy": 99.17,
+  "classes": [
+    "Bargur",
+    "Gir",
+    "Hallikar",
+    "Ongole",
+    "Tharparkar"
+  ],
+  "classification_report": {
+    "Bargur": {
+      "precision": 0.9859154929577465,
+      "recall": 0.9859154929577465,
+      "f1-score": 0.9859154929577465,
+      "support": 71.0
+    },
+    "Gir": {
+      "precision": 0.9916666666666667,
+      "recall": 0.9916666666666667,
+      "f1-score": 0.9916666666666667,
+      "support": 120.0
+    },
+    "Hallikar": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 120.0
+    },
+    "Ongole": {
+      "precision": 0.9807692307692307,
+      "recall": 0.9807692307692307,
+      "f1-score": 0.9807692307692307,
+      "support": 52.0
+    },
+    "Tharparkar": {
+      "precision": 0.9916666666666667,
+      "recall": 0.9916666666666667,
+      "f1-score": 0.9916666666666667,
+      "support": 120.0
+    },
+    "accuracy": 0.9917184265010351,
+    "macro avg": {
+      "precision": 0.9900036114120621,
+      "recall": 0.9900036114120621,
+      "f1-score": 0.9900036114120621,
+      "support": 483.0
+    },
+    "weighted avg": {
+      "precision": 0.9917184265010351,
+      "recall": 0.9917184265010351,
+      "f1-score": 0.9917184265010351,
+      "support": 483.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      70,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      119,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      120,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      51,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      119
+    ]
+  ],
+  "history": {
+    "train_loss": [
+      0.9793,
+      0.6326,
+      0.5052,
+      0.4045,
+      0.3617,
+      0.3299
+    ],
+    "train_acc": [
+      0.651,
+      0.8173,
+      0.8848,
+      0.9289,
+      0.9484,
+      0.9667
+    ],
+    "val_loss": [
+      0.644,
+      0.3815,
+      0.3648,
+      0.3308,
+      0.2678,
+      0.263
+    ],
+    "val_acc": [
+      0.8358,
+      0.9376,
+      0.9522,
+      0.9626,
+      0.9938,
+      0.9896
+    ],
+    "learning_rates": [
+      0.0009336825748732972,
+      0.0007525,
+      0.000505,
+      0.00025750000000000013,
+      7.631742512670284e-05,
+      1e-05
+    ]
+  },
+  "training_time_minutes": 4.57
+}

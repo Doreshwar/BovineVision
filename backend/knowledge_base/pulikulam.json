@@ -1,0 +1,47 @@
+{
+  "id": "pulikulam",
+  "breed_name": "Pulikulam",
+  "scientific_classification": {
+    "species": "Bos indicus (Zebu cattle)",
+    "nbagr_accession": "INDIA_CATTLE_1800_PULIKULAM_03035",
+    "category": "Draught and Traditional Sporting Breed"
+  },
+  "origin_and_geography": {
+    "native_tract": "Pulikulam, Sivagangai, Madurai, Dindigul, and Virudhunagar districts of Southern Tamil Nadu, India.",
+    "agro_climatic_zone": "Southern semi-arid red soil dry plains.",
+    "historical_background": "Also known as Jallikattu Madu or Palingu Madu. Bred traditionally by pastoral communities for agile field work, penning in agricultural fields for bio-manure (Kidaari penning), and the traditional bull-embracing sport of Jallikattu."
+  },
+  "morphological_traits": {
+    "horns": "Curved backward and outward, sharply pointed and forward-directed at the tip, highly defensive.",
+    "forehead": "Narrow with a distinct depression in the center.",
+    "coat_color": "Greyish white or light grey in cows; bulls are dark grey or black with white patches on face and extremities.",
+    "ears": "Short, erect, horizontal, highly responsive to sounds.",
+    "hump_and_dewlap": "Small to medium firm muscular hump; tight, well-tucked dewlap.",
+    "body_conformation": "Small, compact, lean frame; long muscular legs, exceptionally quick reflexes and speed."
+  },
+  "production_and_utility": {
+    "primary_utility": "High-agility draught, migratory field penning for organic manure, and Jallikattu sporting events.",
+    "average_lactation_yield_kg": "300 - 450 kg",
+    "lactation_length_days": "180 - 220 days",
+    "fat_percentage": "4.5% - 5.1%",
+    "draught_capacity": "Remarkable sprint speed, quick turning ability, and endurance under blazing tropical sun."
+  },
+  "management_and_resilience": {
+    "diet_and_forage": "Naturally scavenges on dry scrublands, weeds, and post-harvest crop stubble; minimal supplementary concentrate needed.",
+    "disease_resistance": "Extraordinary resistance to tropical diseases and ticks; withstands prolonged dehydration and heat.",
+    "temperament": "Fiery, aggressive when threatened, alert, highly territorial."
+  },
+  "conservation_status": "Registered as an indigenous breed by ICAR-NBAGR in 2012; protected under Tamil Nadu animal welfare and heritage initiatives.",
+  "citations": [
+    {
+      "source": "ICAR - National Bureau of Animal Genetic Resources (NBAGR)",
+      "document": "Pulikulam Cattle - Accession No. INDIA_CATTLE_1800_PULIKULAM_03035",
+      "authority": "Indian Council of Agricultural Research"
+    },
+    {
+      "source": "TANUVAS",
+      "document": "Characterization and Management of Pulikulam Cattle of Southern Tamil Nadu",
+      "authority": "Veterinary College and Research Institute, Tirunelveli"
+    }
+  ]
+}

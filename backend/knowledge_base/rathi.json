@@ -1,0 +1,47 @@
+{
+  "id": "rathi",
+  "breed_name": "Rathi",
+  "scientific_classification": {
+    "species": "Bos indicus (Zebu cattle)",
+    "nbagr_accession": "INDIA_CATTLE_1700_RATHI_03020",
+    "category": "Arid Zone Dual-Purpose / Milch Breed"
+  },
+  "origin_and_geography": {
+    "native_tract": "Lunkaransar, Bikaner, Churu, Sri Ganganagar, and Hanumangarh districts in the Thar desert of Rajasthan, India.",
+    "agro_climatic_zone": "Hyper-arid desert ecosystem, extreme annual temperatures from below freezing in winter to 50°C in summer.",
+    "historical_background": "Maintained by the nomadic Raths Muslim pastoral community in the heart of the Great Indian Desert. Evolved through natural selection and indigenous breeding to produce abundant milk under extreme nutritional austerity."
+  },
+  "morphological_traits": {
+    "horns": "Short to medium length, curving outward, upward, and slightly inward, blunt tips.",
+    "forehead": "Broad, flat or slightly convex between eyes.",
+    "coat_color": "Brown or red coat with irregular white patches, or white with reddish-brown spots; occasionally completely brown or dull black.",
+    "ears": "Medium length, drooping, non-pendulous.",
+    "hump_and_dewlap": "Medium-sized hump in bulls; moderate, loose dewlap.",
+    "body_conformation": "Medium-sized symmetrical dairy conformation; deep body, wide pelvis, strong legs, and docile facial demeanor."
+  },
+  "production_and_utility": {
+    "primary_utility": "Dependable desert dairy milk production and moderate draught power.",
+    "average_lactation_yield_kg": "1,500 - 2,400 kg (well-managed dairy cows yield up to 3,200 kg)",
+    "lactation_length_days": "270 - 310 days",
+    "fat_percentage": "4.4% - 4.9%",
+    "draught_capacity": "Moderate draught; bullocks are dependable for deep ploughing in sandy soils and hauling drinking water tanks."
+  },
+  "management_and_resilience": {
+    "diet_and_forage": "Outstanding roughage conversion of desert grasses (Sewan, Dhaman), Khejri tree leaves (Loong), and guar stover.",
+    "disease_resistance": "Superior thermotolerance, resistant to dehydration and internal parasites.",
+    "temperament": "Gentle, calm, easy to milk and manage."
+  },
+  "conservation_status": "Conserved under RAJUVAS and the National Project for Bovine Breeding (NPBB).",
+  "citations": [
+    {
+      "source": "ICAR - National Bureau of Animal Genetic Resources (NBAGR)",
+      "document": "Rathi Cattle: Accession No. INDIA_CATTLE_1700_RATHI_03020",
+      "authority": "Indian Council of Agricultural Research"
+    },
+    {
+      "source": "Rajasthan University of Veterinary and Animal Sciences (RAJUVAS)",
+      "document": "Dairy Performance and Management of Rathi Cattle in Thar Desert",
+      "authority": "Livestock Research Station, Bikaner"
+    }
+  ]
+}

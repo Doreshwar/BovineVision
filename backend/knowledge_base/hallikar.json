@@ -1,0 +1,47 @@
+{
+  "id": "hallikar",
+  "breed_name": "Hallikar",
+  "scientific_classification": {
+    "species": "Bos indicus (Zebu cattle)",
+    "nbagr_accession": "INDIA_CATTLE_0800_HALLIKAR_03009",
+    "category": "Premier Draught Breed"
+  },
+  "origin_and_geography": {
+    "native_tract": "Tumkur, Hassan, Mysore, Mandya, Bangalore, and Chitradurga districts of Southern Karnataka, India.",
+    "agro_climatic_zone": "Southern Deccan plateau, semi-arid scrub and dry tropical agricultural zone.",
+    "historical_background": "One of the most illustrious draught breeds in Indian history. Maintained by the traditional Hallikar community and patronage of Mysore royal dynasty (Wodeyars). Progenitor of famous draught breeds including Amritmahal."
+  },
+  "morphological_traits": {
+    "horns": "Long, vertical, sweeping backward and upward in an elegant curvature with sharp tapered tips bending inward.",
+    "forehead": "Narrow, prominent, with a slight furrow down the center.",
+    "coat_color": "Grey to dark iron-grey in bulls (especially over neck and shoulders); cows are generally light silver-grey.",
+    "ears": "Small, pointed, horizontal, held alert.",
+    "hump_and_dewlap": "Well-developed, compact hump in males; tight, thin dewlap that does not hang loosely.",
+    "body_conformation": "Slender, deep-chested, muscular frame; high ground clearance, lean limbs, and extremely hard, small hooves."
+  },
+  "production_and_utility": {
+    "primary_utility": "Heavy draught, fast agricultural tillage, and long-distance road carting.",
+    "average_lactation_yield_kg": "450 - 650 kg",
+    "lactation_length_days": "200 - 240 days",
+    "fat_percentage": "4.4% - 4.8%",
+    "draught_capacity": "Supreme endurance and trotting speed; able to haul heavy plows in dry hard-caked soils for 8-10 hours continuously."
+  },
+  "management_and_resilience": {
+    "diet_and_forage": "Thrives on finger millet (ragi) straw, sorghum fodder, and local grazing commons.",
+    "disease_resistance": "Outstanding resistance to tropical foot rot, heat stress, and piroplasmosis.",
+    "temperament": "Spirited, energetic, courageous; highly responsive to skilled bullock cart drivers."
+  },
+  "conservation_status": "Conserved under Karnataka State Livestock Breeders Association and National Bureau of Animal Genetic Resources.",
+  "citations": [
+    {
+      "source": "ICAR - National Bureau of Animal Genetic Resources (NBAGR)",
+      "document": "Hallikar Cattle: Accession No. INDIA_CATTLE_0800_HALLIKAR_03009",
+      "authority": "Indian Council of Agricultural Research"
+    },
+    {
+      "source": "Karnataka Veterinary, Animal and Fisheries Sciences University (KVAFSU)",
+      "document": "Monograph on South Indian Draught Cattle Breeds",
+      "authority": "Department of Livestock Production Management"
+    }
+  ]
+}
